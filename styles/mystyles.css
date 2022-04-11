@@ -1,0 +1,38 @@
+/*this is applied to my about and index pages*/
+
+H1{
+    font-family: papyrus;
+}
+
+h2{
+    color:crimson
+    
+}
+
+.padding{
+    padding-left: 20px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.intro{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.paddingspace{
+    padding-bottom: 25px;
+}
+
+li{
+    padding-bottom:10px;
+}
+
+.center{
+    text-align:center;
+}
+
+.underline{
+    text-decoration: underline;
+}

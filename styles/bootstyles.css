@@ -1,0 +1,44 @@
+/*this is applied to my tableau page*/
+
+body{
+    background-color: lightgray;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    background-color: white;
+}
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    height: fit-content;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+    background-color: white;
+}
+
+
+
+.center{
+    text-align:center;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
